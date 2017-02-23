@@ -4,7 +4,8 @@ var cacheFiles = [
     './index.html',
     './main.min.js',
     './manifest.json',
-    'https://fonts.googleapis.com/css?family=Roboto:300,400,500'
+    'https://fonts.googleapis.com/css?family=Roboto:300,400,500',
+    './react-add-to-calendar.min.css'
 ];
 
 self.addEventListener('install', function(e){
